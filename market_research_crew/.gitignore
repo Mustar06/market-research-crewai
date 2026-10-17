@@ -1,0 +1,13 @@
+# Environment variables (API Keys)
+.env
+.env.local
+
+# Python virtual environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Output logs/db created by CrewAI memory
+*.log
+db/
